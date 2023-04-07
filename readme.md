@@ -1,6 +1,6 @@
   # Hi, there! :wave::smiley:
 
-  I'm Roy Chan! I am an addicted programmer having engaged with my PC in 10+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
+  I'm Roy Chan! I am an addicted programmer having engaged with my PC in 7+ years. With almost ten years of web development experiences, both in backend and frontend, I am now the one who performs best in web development.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
   
@@ -37,7 +37,3 @@
     <img align="center" alt="max00317" src="https://github-readme-stats.vercel.app/api/top-langs/?username=max00317&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
-
-
-
-![Snake animation](https://raw.githubusercontent.com/max00317/max00317/9e9b51e02fe60e4f7e20a1a8be7b689ab3e23b51/github-contribution-grid-snake.svg)
